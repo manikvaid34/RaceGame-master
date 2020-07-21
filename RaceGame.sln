@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceGame", "RaceGame\RaceGame.csproj", "{CD908A1F-C11F-4BD5-923B-E0D33425F9DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{ABFBB47F-FE00-4955-B056-C6F707B0EECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD908A1F-C11F-4BD5-923B-E0D33425F9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD908A1F-C11F-4BD5-923B-E0D33425F9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD908A1F-C11F-4BD5-923B-E0D33425F9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD908A1F-C11F-4BD5-923B-E0D33425F9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABFBB47F-FE00-4955-B056-C6F707B0EECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFBB47F-FE00-4955-B056-C6F707B0EECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFBB47F-FE00-4955-B056-C6F707B0EECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFBB47F-FE00-4955-B056-C6F707B0EECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF210A4-B75D-422A-87E3-9E21986B2694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF210A4-B75D-422A-87E3-9E21986B2694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF210A4-B75D-422A-87E3-9E21986B2694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF210A4-B75D-422A-87E3-9E21986B2694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AA5D3A1-B3D6-49E1-8DB6-E712EB7A982F}
+	EndGlobalSection
+EndGlobal
